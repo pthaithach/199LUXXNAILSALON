@@ -1,0 +1,37 @@
+{
+    "data": {
+        "store"     : "Luxx Nail Salon",
+        "slug"      : "luxx-nail-salon",
+        "phone"     : "(682) 502-4431",
+        "email"     : "viviannguyen988@gmail.com",
+        "address"   : "400 S Oak St Suite 130, Roanoke, Texas 76262",
+        "state"     : "Texas 76262",
+        "ward"      : "Roanoke",
+        "time_1"    : "Mon - Fri: 9:30 AM - 7:30 PM",
+        "time_2"    : "Sat: 9:00 AM - 7:00 PM",
+        "time_3"    : "Sun: 11:30 AM - 6:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/luxxnailsalonroanoke",
+        "instagram" :   "https://www.instagram.com/luxxnailsalon.roanoke/",
+        "google"    :   "https://g.page/Luxx-Nails-Roanoke?share", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDgyNzl8bHV4eG5haWw0MDB8VFhfMDgwMzJ8ZmQ1N2I4NjdlNmU0ZjVjMWFmNzNlMTM3NjVkYzBhNDE=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13385.31985310477!2d-97.2309494!3d32.9950752!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xbb99665fa24188f8!2sLuxx%20Nail%20Salon!5e0!3m2!1svi!2s!4v1667885188010!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#F26B8F",
+        "primary_light"         :   "#F2C4D0",
+        "primary_hover"         :   "#F2A2B1",
+        "secondary"             :   "#D93D66",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#bb5973",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
